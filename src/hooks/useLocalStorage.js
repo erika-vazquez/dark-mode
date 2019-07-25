@@ -21,3 +21,4 @@ const [storedValue, setStoredValue] = useState(() => {
 
 return [storedValue]
 }
+export default useLocalStorage

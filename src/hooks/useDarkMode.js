@@ -1,4 +1,5 @@
 import useLocalStorage from './useLocalStorage'
+import { useEffect} from 'react';
 
 export default function useDarkMode() {
 
